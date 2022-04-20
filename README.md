@@ -15,6 +15,8 @@ Buat File html dan masukan link bootstrapnya, link tersebut bisa kita ambil dari
 
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
+![image](https://user-images.githubusercontent.com/20396585/164267029-ebe59bd7-5004-4143-bc51-b7ccd66c2656.png)
+
 Berikut Kodenya :
 
 ```
@@ -291,3 +293,6 @@ footer {
 ```
 
 ## Dan dibawah ini adalah hasil dari Kode Bootstrap di atas :
+
+![image](https://user-images.githubusercontent.com/20396585/164267067-d2b70795-0f41-4c0d-8550-fd9fc86774cc.png)
+

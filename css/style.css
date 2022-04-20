@@ -1,0 +1,13 @@
+.card-img-top {
+  width: 120px;
+  align-self: center;
+}
+
+footer {
+  text-align: center;
+  clear: both;
+  background-color: #007bff;
+  border-radius: 8px 8px 0px 0px;
+  padding: 10px;
+  color: #eee;
+}

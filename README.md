@@ -59,10 +59,8 @@ dan dibawah ini adalah kode nya :
 
 ```
   <!--NAVBAR-->
-  <div class="jumbotron jumbotron-fluid bg-light pb-2 mb-1">
-    <div class="container">
-      <h1 class="display-4">Layout Sederhana</h1>
-    </div>
+  <div class="container py-4">
+    <h1 class="display-4">Layout Sederhana</h1>
   </div>
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
@@ -295,4 +293,3 @@ footer {
 ## Dan dibawah ini adalah hasil dari Kode Bootstrap di atas :
 
 ![image](https://user-images.githubusercontent.com/20396585/164267067-d2b70795-0f41-4c0d-8550-fd9fc86774cc.png)
-
